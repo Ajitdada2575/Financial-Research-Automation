@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+matplotlib>=3.7
+streamlit>=1.50
+python-pptx>=0.6.23
+beautifulsoup4>=4.12
+lxml>=4.9
+selenium>=4.15
+requests>=2.31
+openpyxl>=3.1
+pillow>=10.0
