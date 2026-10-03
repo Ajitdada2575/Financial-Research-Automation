@@ -24,7 +24,7 @@
 
 Instead of copying numbers into Excel, calculating growth by hand and building slides one by one, an analyst gets a finished report in under a minute.
 
-> **Note on demo data:** the *Demo data* mode uses **synthetic** numbers so the project runs offline. All images in this README that show numbers were generated from demo data. Use *Live scrape* for real figures.
+> live demo click here: https://financial-research-automation-ajitdadagharge.streamlit.app/
 
 ---
 
